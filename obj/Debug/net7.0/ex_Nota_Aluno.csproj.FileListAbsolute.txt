@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\bin\Debug\net7.0\ex_Nota_Aluno.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\bin\Debug\net7.0\ex_Nota_Aluno.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\bin\Debug\net7.0\ex_Nota_Aluno.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\bin\Debug\net7.0\ex_Nota_Aluno.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\bin\Debug\net7.0\ex_Nota_Aluno.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\refint\ex_Nota_Aluno.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ex_Nota_Aluno.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_Nota_Aluno\obj\Debug\net7.0\ref\ex_Nota_Aluno.dll
